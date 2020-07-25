@@ -1,2 +1,5 @@
-# VanillaJS-Study
-This is test
+## Github 명령어 사용법
+
+1. git add
+ - git 저장소에 업로드할때 새로 추가된 파일이나 변경된 사항이 존재하는경우 사용하는 명령어.
+ - 파일을 추가하지 않고 commit하는경우 error메시지가 출력됨
