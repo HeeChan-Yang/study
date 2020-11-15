@@ -1,5 +1,5 @@
 {
-    [{
+    storeData = [{
       "id": 1,
       "storeName": "test1",
       "storeAddress": "test1Address"
