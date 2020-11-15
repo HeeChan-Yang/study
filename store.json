@@ -1,5 +1,4 @@
 {
-  "storeData" : [
     {
       "id": 1,
       "storeName": "test1",
@@ -8,7 +7,6 @@
     {
       "id": 2,
       "storeName": "test2",
-      "storeAddress": "test2Address"
+    "storeAddress": "test2Address"
     }
-  ]
 }
